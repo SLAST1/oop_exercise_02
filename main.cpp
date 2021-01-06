@@ -4,7 +4,7 @@
 //  Variant 8
 //  M8о-206Б-19
 //  Created by Daniel Pivnitskiy on 10.10.2020.
-
+//  github.com/SLAST1
 //  Copyright © 2020 Daniel Pivnitskiy. All rights reserved.
 //
 /*
